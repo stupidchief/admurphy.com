@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: Main
   description: main text
+pages:
+- content/about.md
